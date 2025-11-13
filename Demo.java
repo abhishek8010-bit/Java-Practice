@@ -32,7 +32,7 @@ class Calculator {
 }
 
 public class Demo {
-    public static void main(String Argu[]) {
+    public static void main(String1 Argu[]) {
 
         int num1 = 5;
         int num2 = 4;
