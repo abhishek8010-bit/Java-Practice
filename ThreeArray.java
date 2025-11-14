@@ -1,5 +1,5 @@
 public class ThreeArray {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         int nums[][][] = new int[3][4][5];
 
         for(int i=0; i<3; i++){
